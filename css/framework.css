@@ -1,0 +1,69 @@
+
+/* Start Box */
+.d-flex {
+  display: flex;
+}
+.aling-center {
+  align-items: center;
+}
+.just-bet {
+  justify-content: space-between;
+}
+.ali-cent {
+  align-items: center;
+}
+/* End Box */
+
+/* Start padding + margin */
+.p-10 {
+  padding: 10px;
+}
+.p-20 {
+  padding: 25px;
+}
+.m-20 {
+  margin: 20px;
+}
+.mt {
+  margin-top: 0;
+}
+.mr {
+  margin-right: 8px;
+}
+/* Start padding + margin */
+
+/* Start color */
+.bg-white {
+  background-color: white;
+}
+.c-black {
+  color: black;
+}
+/* End color */
+
+/* Start position */
+.p-relative {
+  position: relative;
+}
+/* Start position */
+
+/* Start font */
+.txt-c {
+  text-align: center;
+}
+.f-14 {
+  font-size: 14px;
+}
+/* Start font */
+
+/* Start border */
+.br {
+  border-radius: 6px;
+}
+/* End border */
+
+/* Start transform */
+.trans {
+  transition: .3s;
+}
+/* End transform */
